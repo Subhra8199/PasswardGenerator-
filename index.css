@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    background-color: #1F2937;
+    border: none;
+    box-sizing: border-box;
+    
+    
+    
+}
+.container > .one{
+    max-width: 80vh;
+    padding-left: 20px;
+    padding-top: 10px;
+    color: white;
+    margin: 10px 0 ;
+    }
+.container > .two{
+    margin-top: 30px;
+    width: 70%;
+    border-bottom: 1px solid white ;
+    opacity: .2;
+    margin-left: 20px ;
+    
+    
+}
+span{
+        display: block;
+        color: #10B981;
+   
+}
+h1{
+    font-weight: 700;
+    
+}
+button{
+    padding: 12px 12px;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    background-color: #10B981;
+    margin-top: 25px;
+       
+}
+
+.container-2{
+    /* border: 1px solid green; */
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    
+    width: 100%;
+}
+ .passbox1{
+     /* border: 1px solid white; */
+     border-radius: 5px;
+     padding: 10px 20px;
+     /* margin-left:auto;
+     margin-right: auto; */
+     width: 165px;
+     height: 15px;
+     color:#10B981;
+     font-weight:700 ;
+     background-color: #273549;
+       
+ }
+
